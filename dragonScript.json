@@ -1,0 +1,9 @@
+{
+    "projectName": "gas_webapp_example",
+    "gasId": "11k5CNEnqu4YIut3BD3Smk3x4IhDjI63yRhrHFh-a_mB4ZRccdyNhzZ0E",
+    "gasIdDev": "",
+    "ds_modules": [
+        "webapp"
+    ],
+    "projectPath": "/home/quattro/Documentos/typescript/gas_webapp_example"
+}
